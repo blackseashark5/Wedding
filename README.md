@@ -64,24 +64,6 @@ The production files will be generated in the `dist` folder.
 
 ### Deploy to Netlify
 
-1. **Drag & Drop Method:**
-   - Go to [Netlify Drop](https://app.netlify.com/drop)
-   - Drag the `dist` folder onto the page
-   - Your site will be live instantly!
-
-2. **CLI Method:**
-   ```bash
-   npm install -g netlify-cli
-   netlify deploy --prod --dir=dist
-   ```
-
-### Deploy to Vercel
-
-```bash
-npm install -g vercel
-vercel --prod
-```
-
 ## 📁 Project Structure
 
 ```
