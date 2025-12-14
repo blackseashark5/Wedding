@@ -34,10 +34,6 @@ A beautiful, interactive quiz application with smooth animations and a modern de
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-
-# Navigate to project directory
-cd pixel-perfect-interface-main
 
 # Install dependencies
 npm install
